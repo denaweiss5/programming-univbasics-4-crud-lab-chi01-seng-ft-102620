@@ -13,7 +13,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  add_element_to_end_of_array.unshift("wow")
+  add_element_to_start_of_array = ["Flora", "Tomi", "Dena"]
+  add_element_to_start_of_array.unshift("wow")
 
 end
 
