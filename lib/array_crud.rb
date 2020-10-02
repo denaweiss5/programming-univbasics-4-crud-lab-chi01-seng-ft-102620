@@ -33,10 +33,12 @@ end
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index = ["Dena", "is", "am"]
   retrieve_element_from_index[2]
-  
+
 end
 
 def retrieve_first_element_from_array(array)
+  retrieve_first_element_from_array = ["wow", "happy", "sad"]
+  retrieve_first_element_from_array[0]
 
 end
 
